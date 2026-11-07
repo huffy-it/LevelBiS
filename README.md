@@ -5,8 +5,9 @@
 > `0.20.4` is the last release for TBC Anniversary (2.5.x). It will not get new
 > features, bug fixes or data updates. It keeps working as it is, but expect it to break with future client patches.
 >
-> Development is moving to **World of Warcraft: Forever**. There is no release
-> date yet; this repository will host it.
+> Development continues for **World of Warcraft: Forever** in
+> [huffy-it/LevelBiS-Forever](https://github.com/huffy-it/LevelBiS-Forever).
+> There is no release date yet. This repository is archived.
 
 Addon for **World of Warcraft TBC Anniversary (2.5.x client)** that tells you
 which gear to get as you level from 1 to 70.
